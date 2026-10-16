@@ -1,0 +1,26 @@
+/* Pora Technologies design tokens, taken from poratechnologies.com (index.html). */
+:root {
+  /* Colors */
+  --abyss: #081F38;       /* deep navy: dark sections, headings on light */
+  --abyss-soft: #0C2848;  /* raised surface on navy */
+  --abyss-deep: #051426;  /* footer */
+  --blue: #295D88;        /* main brand blue: links, accents */
+  --hydride: #6EAED7;     /* light blue: primary button on navy, highlights */
+  --slate: #445F79;       /* body text on white */
+  --mist: #5E748B;        /* secondary text */
+  --fog: #6C7982;         /* muted text, captions */
+  --white: #FFFFFF;
+  --ice: #FAFCFE;         /* light section background */
+  --frost: #F1F6FA;       /* light tint */
+  --line: rgba(8, 31, 56, 0.10);
+  --line-dark: rgba(110, 174, 215, 0.18);
+
+  /* Type */
+  --font-heading: 'Space Grotesk', sans-serif;  /* 500, 600, 700 */
+  --font-body: 'IBM Plex Sans', sans-serif;     /* 400, 500, 600 */
+  --font-mono: 'IBM Plex Mono', monospace;      /* 400, 500: labels, technical text */
+
+  /* Shape */
+  --radius: 14px;
+  --max: 1140px;
+}
